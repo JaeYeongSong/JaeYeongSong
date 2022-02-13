@@ -1,11 +1,11 @@
-# Xsop
+# JaeYeongSong
 
-[songjaey08@gmail.com](mailto:songjaey08@gmail.com)
+[songjaey08@gmail.com](mailto:songjaey08@gmail.com) · [xsop.tistory.com](https://xsop.tistory.com/)
 
 **_"I walk slowly, but I never walk backwards. - Abraham Lincoln"_**  
 **_"나는 천천히 걷지만 결코 뒤로 걷지 않는다. - 에이브러햄 링컨"_**
 
-[![Xsop-sop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xsop-sop)](https://github.com/anuraghazra/github-readme-stats)
+[![JaeYeongSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeYeongSong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
